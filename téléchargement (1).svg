@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750">
+  <rect width="100%" height="100%" fill="#0f172a"></rect>
+  <rect x="150" y="80" width="900" height="590" rx="24" fill="#111827" stroke="#334155" stroke-width="3"></rect>
+  <text x="600" y="170" font-family="Segoe UI, Inter" font-size="38" fill="#e5e7eb" text-anchor="middle" font-weight="600">
+    Écran de connexion
+  </text>
+  <rect x="300" y="240" width="600" height="56" rx="12" fill="#0b1220" stroke="#334155"></rect>
+  <rect x="300" y="316" width="600" height="56" rx="12" fill="#0b1220" stroke="#334155"></rect>
+  <rect x="470" y="410" width="260" height="50" rx="12" fill="#4f46e5"></rect>
+  <text x="600" y="445" font-family="Segoe UI, Inter" font-size="20" fill="#ffffff" text-anchor="middle">Envoyer code &amp; Continuer</text>
+</svg>
