@@ -106,7 +106,7 @@
 
 **⚠️ Si vous perdez votre mot de passe maître, il est impossible de récupérer vos données (c’est voulu, par sécurité).**
 
-**🔐 Pour des raisons de sécurité , tout est stocké localement 
+**🔐 Pour des raisons de sécurité , tout est stocké localement**
 
 
 
