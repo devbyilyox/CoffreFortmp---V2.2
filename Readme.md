@@ -85,7 +85,6 @@
   <img src="2.png" alt="Coffre & détails" width="47%">
 </p>
 
-> Placez vos captures dans `docs/` (remplacez les fichiers si besoin).
 
 ---
 
@@ -107,55 +106,9 @@
 
 **⚠️ Si vous perdez votre mot de passe maître, il est impossible de récupérer vos données (c’est voulu, par sécurité).**
 
-                                                           --<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600">
-  <defs>
-    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#1e293b"/>
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#g)"/>
-  <g font-family="Segoe UI, Inter, Arial" fill="#e5e7eb" text-anchor="middle">
-    <text x="800" y="280" font-size="90" font-weight="700">CoffreMP v2</text>
-    <text x="800" y="360" font-size="32" fill="#93c5fd">Gestionnaire de mots de passe sécurisé</text>
-  </g>
-  <circle cx="1400" cy="130" r="90" fill="#4f46e5" opacity="0.25"/>
-  <circle cx="200" cy="500" r="120" fill="#22d3ee" opacity="0.2"/>
-</svg>
+**🔐 Pour des raisons de sécurité , tout est stocké localement 
 
 
 
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750">
-  <rect width="100%" height="100%" fill="#0f172a"/>
-  <rect x="150" y="80" width="900" height="590" rx="24" fill="#111827" stroke="#334155" stroke-width="3"/>
-  <text x="600" y="170" font-family="Segoe UI, Inter" font-size="38" fill="#e5e7eb" text-anchor="middle" font-weight="600">
-    Écran de connexion
-  </text>
-  <rect x="300" y="240" width="600" height="56" rx="12" fill="#0b1220" stroke="#334155"/>
-  <rect x="300" y="316" width="600" height="56" rx="12" fill="#0b1220" stroke="#334155"/>
-  <rect x="470" y="410" width="260" height="50" rx="12" fill="#4f46e5"/>
-  <text x="600" y="445" font-family="Segoe UI, Inter" font-size="20" fill="#ffffff" text-anchor="middle">Envoyer code & Continuer</text>
-</svg>
 
-
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750">
-  <rect width="100%" height="100%" fill="#0f172a"/>
-  <rect x="80" y="70" width="1040" height="610" rx="24" fill="#111827" stroke="#334155" stroke-width="3"/>
-  <text x="600" y="130" font-family="Segoe UI, Inter" font-size="38" fill="#e5e7eb" text-anchor="middle" font-weight="600">
-    Coffre & Détails
-  </text>
-  <rect x="120" y="180" width="640" height="420" rx="12" fill="#1e293b" stroke="#475569"/>
-  <rect x="790" y="180" width="290" height="420" rx="12" fill="#0b1220" stroke="#334155"/>
-  <rect x="140" y="200" width="600" height="40" fill="#0f172a"/>
-  <text x="160" y="227" font-family="Segoe UI, Inter" font-size="16" fill="#facc15">Nom</text>
-  <text x="300" y="227" font-family="Segoe UI, Inter" font-size="16" fill="#facc15">Identifiant</text>
-  <text x="500" y="227" font-family="Segoe UI, Inter" font-size="16" fill="#facc15">URL</text>
-  <text x="620" y="227" font-family="Segoe UI, Inter" font-size="16" fill="#facc15">Modifié</text>
-  <rect x="810" y="210" width="250" height="36" rx="8" fill="#0b1220" stroke="#334155"/>
-  <rect x="810" y="260" width="250" height="36" rx="8" fill="#0b1220" stroke="#334155"/>
-  <rect x="810" y="310" width="250" height="36" rx="8" fill="#0b1220" stroke="#334155"/>
-  <rect x="840" y="360" width="190" height="40" rx="10" fill="#4f46e5"/>
-  <text x="935" y="386" font-family="Segoe UI, Inter" font-size="18" fill="#fff" text-anchor="middle">Se connecter (auto)</text>
-</svg>
-
-                                                       
+ 
