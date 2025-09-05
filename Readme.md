@@ -35,11 +35,7 @@
 - [Sécurité & confidentialité](#-sécurité--confidentialité)
 - [Emplacement des données](#-emplacement-des-données)
 - [Pré-requis auto-login](#-pré-requis-auto-login)
-- [Dépannage](#-dépannage)
-- [Checksums](#-checksums)
-- [Roadmap](#-roadmap)
-- [Contribuer](#-contribuer)
-- [Licence](#-licence)
+- [Licence](#./LICENCE)
 
 ---
 
