@@ -35,7 +35,7 @@
 - [Sécurité & confidentialité](#-sécurité--confidentialité)
 - [Emplacement des données](#-emplacement-des-données)
 - [Pré-requis auto-login](#-pré-requis-auto-login)
-- [Licence](#./LICENCE)
+- [Licence](#CoffreFortmp---V2.2/LICENSE)
 
 ---
 
