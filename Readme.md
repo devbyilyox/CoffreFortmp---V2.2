@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest/download/CoffreMP-v2.exe">
+  <a href="https://coffrefort.ilyox.fr">
     <img src="https://img.shields.io/badge/TÉLÉCHARGER-CoffreMP%20v2.exe-4f46e5?style=for-the-badge&logo=windows" alt="download">
   </a>
 </p>
