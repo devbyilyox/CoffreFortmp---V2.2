@@ -81,8 +81,8 @@
 ## 👀 Aperçu
 
 <p align="center">
-  <img src="docs/screenshot-login.png" alt="Écran de connexion" width="47%">
-  <img src="docs/screenshot-vault.svg" alt="Coffre & détails" width="47%">
+  <img src="1.png" alt="Écran de connexion" width="47%">
+  <img src="2.png" alt="Coffre & détails" width="47%">
 </p>
 
 > Placez vos captures dans `docs/` (remplacez les fichiers si besoin).
